@@ -1,8 +1,10 @@
 
 
-# GreenNest: AI-Powered Plant Disease Detection and Management
+# LeafGuard: A Deep Learning System for Plant Disease Detection & Management
 
-**GreenNest** is an innovative cross-platform solution (Mobile & Web) that leverages advanced Deep Learning to help farmers, agriculturists, and plant enthusiasts detect plant leaf diseases instantly with high accuracy. By combining a state-of-the-art AI pipeline with actionable remediation suggestions (powered by Gemini LLM) and a rich plant species library, GreenNest promotes sustainable, data-driven farming practices and supports global food security.
+LeafGuard is an AI-powered plant health system designed to help farmers, agriculturists, and plant enthusiasts detect plant leaf diseases quickly and accurately.
+
+The project combines Deep Learning and Computer Vision techniques, using YOLOv8 for disease detection and ResNet-50 for image classification. By analyzing images of plant leaves, LeafGuard automatically identifies potential diseases and provides an intelligent approach to plant health monitoring and early detection.
 
 ## Documentation & Resources
 
